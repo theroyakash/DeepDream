@@ -1,2 +1,2 @@
 # DeepDream
-DeepDream using tensorflow 2.0
+Deep dream algorithm using tensorflow 2.3.0
